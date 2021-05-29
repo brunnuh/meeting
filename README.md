@@ -1,5 +1,7 @@
 # meeting
 
+![alt text](assets/Edited_20210529_173058.gif)
+
 A new Flutter project.
 
 ## Getting Started
